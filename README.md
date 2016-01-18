@@ -8,6 +8,8 @@ Once completed you will have practiced:
 1. Fix a series of tests that focus on data types, type conversions, and expressions.
 1. Submitting a pull request back to the assignment repository.
 
+### Completing assignments
+
 
 ## To get started
 1. To start, [**fork** the repository][forking].
@@ -19,6 +21,7 @@ Once completed you will have practiced:
    in the assignment.
 
 <!-- Links -->
+
 [forking]: https://guides.github.com/activities/forking/
 [ref-clone]: http://gitref.org/creating/#clone
 [ref-commit]: http://gitref.org/basic/#commit
