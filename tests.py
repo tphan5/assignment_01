@@ -97,7 +97,7 @@ class Test_Assignment_01(unittest.TestCase):
         i = float(i)
         self.assertTrue(isinstance(i, float))
         i = str(i)
-        self.assertFalse(type(i), str)
+        self.assertFalse(type(i) == str)
 
     def test_type_conversion2(self):
         """
