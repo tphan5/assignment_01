@@ -50,7 +50,7 @@ class Test_Assignment_01(unittest.TestCase):
         A test for equality by assigning a value to a variable
         and evaluating an expression.
         """
-        expected_value = _
+        expected_value = 2
         truth_value = 1 + 1
         self.assertEqual(expected_value, truth_value)
 
